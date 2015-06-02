@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-lowercase-paths",
+  "version": "1.0.0",
+  "description": "Ensures all file paths are lower case",
+  "main": "metalsmith-lowercase-paths.js",
+  "author": "Erik Kristensen <erik@erikkristensen.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
